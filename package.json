@@ -1,6 +1,6 @@
 {
   "name": "custom-table-template",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "自定义模板生成器",
   "main": "./lib/main.js",
   "type": "module",
